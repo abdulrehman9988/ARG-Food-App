@@ -1,14 +1,3 @@
-// const mongoose=require("mongoose")
-// const mongoURI='mongodb+srv://arehmanrg:Abdul9988@cluster0.apcpv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
-
-// const mongoDB=()=>{
-//   mongoose.connect(mongoURI,()=>{
-//     console.log("connected");
-    
-//   })
-// }
-
-// module.exports=mongoDB; 
 
 const mongoose = require("mongoose");
 
